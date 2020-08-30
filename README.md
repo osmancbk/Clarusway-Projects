@@ -66,6 +66,12 @@ The clarusway-workshop repository contains materials related to the IT trainings
 
 - [Full Stack Learning Path Teamwork Agendas](./teamwork-agendas/README.md)
 
+
+- [Sprint Evaluation](./sprint-evaluation/README.md)
+
+    - [Full Stack Learning Path Sprint Evaluation](./sprint-evaluation/sprint/README.md)
+
+
 ## Rules & Policy
 
 - This repo is read only for Students of Clarusway.
